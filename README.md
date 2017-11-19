@@ -7,3 +7,5 @@
 - [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) -An Android library for Bluetooth Low Energy (BLE) interactions backed with RxJava http://polidea.github.io/RxAndroidBle/
 
 - [Android-BluetoothSPPLibrary](https://github.com/akexorcist/Android-BluetoothSPPLibrary) -Bluetooth Serial Port Profile which comfortable to developer application to communication with microcontroller via bluetooth
+
+- [Bluetooth-LE-Library---Android](https://github.com/alt236/Bluetooth-LE-Library---Android)
