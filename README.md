@@ -13,3 +13,5 @@
 - [H-Ble](https://github.com/hansionit/H-Ble) -Android Ble类库，基于回调，暴露搜索、连接、发送、接收、断开连接等接口，无需关心细节操作即可进行Ble通信
 
 - [BleLib](https://github.com/junkchen/BleLib) -BleLib是Android低功耗蓝牙4.0及以上开发的辅助库，一行代码解决Ble初始化、扫描、连接、特性读写、设置通知等操作
+
+- [EasyBle](https://github.com/Ficat/EasyBle) -Android BLE framework
